@@ -1,7 +1,7 @@
 NbConvertApp
 ============
 
-.. module:: nbconvert.nbconvertapp
+.. module:: nbconvert.nbconvertappk
 
 .. seealso::
 
